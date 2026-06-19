@@ -32,5 +32,5 @@ Repository Link: https://github.com/iamSuman07/Apex-Planet-Task-4
 - GitHub Management
 
 ## Contact
-LinkedIn: Add LinkedIn Link
-GitHub: Add GitHub Profile Link
+LinkedIn: https://www.linkedin.com/in/suman07/
+GitHub: https://github.com/iamSuman07
